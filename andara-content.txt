@@ -1,5 +1,7 @@
 RENCANA KONTEN ANDARA
 - foootage cinematics
+ *foootage bus
+ *foootage road
 - daily vlog
 - Trip vlog
 - Ngoding bareng
