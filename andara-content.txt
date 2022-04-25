@@ -2,7 +2,8 @@ RENCANA KONTEN ANDARA
 - foootage cinematics
  *foootage bus
  *foootage road
+ > buat footage alam
+ > buat footage jalanan
  - membangun perusahaan bus
 - daily vlog
 - Trip vlog
-- Ngoding bareng
