@@ -1,2 +1,2 @@
 # Andara-911
-Repository unutk rencana say kedepannya.
+Repository unutk rencana saya kedepannya.
